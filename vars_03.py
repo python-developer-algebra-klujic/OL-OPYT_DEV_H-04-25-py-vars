@@ -36,8 +36,8 @@ broj telefona, prosječna ocjena, godina upisa studija, naziv studija, naziv sve
 student = 'Pero Peric; 12345678901; pero.peric@email.com; ...'
 
 # Opcija 2 - autor Bojan Kuljić
-first_name = 'Pero'
-last_name = 'Peric'
+first_name = 'Ana'
+last_name = 'Horvat'
 oib = '12345678901' # 11 znamenki
 email = 'ana.horvat@example.com',
 telefon = '+385 91 123 4567',
